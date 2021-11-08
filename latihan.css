@@ -1,0 +1,69 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box ; 
+} 
+
+.pas1 {
+    border: 1px solid; width: 70%;
+}
+
+.aji {
+    width: 100%; background-color: silver;
+}
+
+.asu {
+    padding-left: 20px ;
+}
+
+.pas2 {
+    padding-top: 40px; padding-bottom: 300px; border: 1px solid; display: flex; width: 70%;
+}
+
+.syg {
+    width: 100%; padding-left: 20px;
+}
+
+.soto {
+    color: blue;
+}
+
+.ayam {
+    color: blue;
+}
+
+.capp {
+    width: 60%; height: 12cm;background-color: rgb(58, 47, 47);  padding: 25px;
+}
+
+.sayur {
+    text-align: right;
+}
+
+.buah {
+    text-align: right;
+}
+
+.tomat {
+    text-align: right;
+}
+
+.jagung {
+    text-align: right;
+}
+
+.pas3 {
+    border: 1px solid; width: 70%;
+}
+
+.capp2 {
+    width: 100%;background-color: silver; font-size: 14px; padding-left: 20px;
+}
+
+.apel {
+    text-align: right;
+}
+
+.pisang {
+    background-color: grey;
+}
